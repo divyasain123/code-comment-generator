@@ -141,13 +141,6 @@ streamlit run src/inference/streamlit_app.py
 
 ---
 
-## 👤 Author
-
-**Varenya Visen**
-📫 Email: [varenyavisen@gmail.com](mailto:varenyavisen@gmail.com)
-🌐 LinkedIn: [@VarenyaVisen](https://www.linkedin.com/in/varenya-visen-a2680b265/)
-💻 GitHub: [VarenyaVisen](https://github.com/VarenyaVisen)
-
 ---
 
 ⭐ *Star this repo if you found it helpful*!
