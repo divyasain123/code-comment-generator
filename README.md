@@ -144,4 +144,3 @@ streamlit run src/inference/streamlit_app.py
 ---
 
 ⭐ *Star this repo if you found it helpful*!
-*Built from scratch with ❤️ and curiosity for deep learning + real-world ML!*
